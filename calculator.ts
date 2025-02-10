@@ -17,4 +17,4 @@ function deadmanDropCalc(npcCombatLevel : number, npcName : string):string {
     }
     return text
 }
-console.log(deadmanDropCalc(82, 'Lesser Demon')) //replace 82 with the NPC's combat leve, and 'Lesser Demon' with the NPC name
+console.log(deadmanDropCalc(82, 'Lesser Demon')) //replace 82 with the NPC's combat level, and 'Lesser Demon' with the NPC name
